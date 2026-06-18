@@ -11,7 +11,7 @@ import SwiftUI
 struct CoordinatorDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CoordinatorStack(root: AppRoutes.root)
         }
     }
 }
