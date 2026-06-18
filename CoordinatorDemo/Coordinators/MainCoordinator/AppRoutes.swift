@@ -23,7 +23,8 @@ enum AppRoutes: Routable {
         case .wishList(let plants):
             MyWishListView(plants: plants)
         case .favourites(let plants):
-            CoordinatorStack(root: FavouritesRoutes.root(plants: plants)) // Instantiate child coordinator to manage all new Favourites navigation
+            // Instantiate child coordinator to manage all new Favourites navigation
+            CoordinatorStack(root: FavouritesRoutes.root(plants: plants))
         case .plant(let plant):
             PlantDetails(plant: plant)
         case .root:
