@@ -1,0 +1,94 @@
+{
+  "plants": [
+    {
+      "id": "e7f8a9b0-c1d2-3456-efab-567890123456",
+      "name": "Agave",
+      "image": "agave",
+      "description": "Suculenta icónica mexicana con hojas gruesas y carnosas terminadas en espinas afiladas. Usada por siglos para producir pulque, mezcal y tequila.",
+      "care": "Riega con poca frecuencia. Sol pleno. Tierra arenosa con buen drenaje. Extremadamente resistente a la sequía.",
+      "registrationDate": "2023-12-07T22:13:20Z",
+      "isFavorite": false
+    },
+    {
+      "id": "f8a9b0c1-d2e3-4567-fabc-678901234567",
+      "name": "Cempasúchil",
+      "image": "cempasuchil",
+      "description": "El icónico cempasúchil mexicano con flores vibrantes en naranja y amarillo, usado tradicionalmente para decorar altares en el Día de Muertos.",
+      "care": "Riega regularmente. Sol pleno. Tierra con buen drenaje. Florece en otoño.",
+      "registrationDate": "2024-04-01T22:26:40Z",
+      "isFavorite": false
+    },
+    {
+      "id": "a9b0c1d2-e3f4-5678-abcd-789012345678",
+      "name": "Dalia",
+      "image": "dalia",
+      "description": "La flor nacional de México, disponible en cientos de variedades con flores impresionantes que van del blanco al morado intenso.",
+      "care": "Riega con frecuencia. Sol pleno a semisombra. Tierra rica con buen drenaje. Tutora las variedades altas.",
+      "registrationDate": "2024-07-25T22:40:00Z",
+      "isFavorite": false
+    },
+    {
+      "id": "b0c1d2e3-f4a5-6789-bcde-890123456789",
+      "name": "Nochebuena",
+      "image": "nochebuena",
+      "description": "Conocida mundialmente como Poinsettia, esta planta nativa mexicana es famosa por sus brácteas rojas que florecen en Navidad.",
+      "care": "Riega cuando la tierra esté seca. Luz indirecta brillante. Evita corrientes frías. Reduce el riego tras la floración.",
+      "registrationDate": "2024-11-17T22:53:20Z",
+      "isFavorite": false
+    },
+    {
+      "id": "c1d2e3f4-a5b6-7890-cdef-901234567890",
+      "name": "Salvia Mexicana",
+      "image": "salvia_mexicana",
+      "description": "Salvia nativa mexicana con llamativas flores azul-morado intenso que atraen colibríes y polinizadores.",
+      "care": "Riega con moderación. Sol pleno a semisombra. Tierra con buen drenaje. Poda tras la floración.",
+      "registrationDate": "2025-03-10T23:06:40Z",
+      "isFavorite": false
+    },
+    {
+      "id": "d2e3f4a5-b6c7-8901-defa-012345678901",
+      "name": "Jacaranda",
+      "image": "jacaranda",
+      "description": "Árbol nativo de México famoso por sus espectaculares flores violeta-azuladas que cubren sus ramas antes de que broten las hojas, tiñendo calles y jardines de morado cada primavera.",
+      "care": "Riega regularmente en temporada seca. Sol pleno. Tierra fértil con buen drenaje. Poda moderada tras la floración.",
+      "registrationDate": "2025-05-20T10:00:00Z",
+      "isFavorite": false
+    },
+    {
+      "id": "e3f4a5b6-c7d8-9012-efab-123456789012",
+      "name": "Bugambilia",
+      "image": "bugambilia",
+      "description": "Una de las plantas más representativas de México, con vistosas brácteas en tonos magenta, rosa, naranja o blanco. Trepadora vigorosa que decora bardas y jardines durante casi todo el año.",
+      "care": "Riega con moderación, tolera sequía. Sol pleno. Florece más abundantemente con estrés hídrico controlado. Poda tras cada ciclo de floración.",
+      "registrationDate": "2025-07-10T10:00:00Z",
+      "isFavorite": true
+    },
+    {
+      "id": "f4a5b6c7-d8e9-0123-fabc-234567890123",
+      "name": "Noche Buena Silvestre",
+      "image": "noche_buena_silvestre",
+      "description": "La versión silvestre de la Poinsettia, originaria de los bosques tropicales de México. Puede alcanzar varios metros de altura y produce las mismas brácteas rojas icónicas en su forma natural.",
+      "care": "Riega regularmente en temporada de crecimiento. Sol pleno a semisombra. Tierra fértil. Tolera mejor la sequía que su versión de maceta.",
+      "registrationDate": "2025-09-01T10:00:00Z",
+      "isFavorite": false
+    },
+    {
+      "id": "a5b6c7d8-e9f0-1234-abcd-345678901234",
+      "name": "Flor de Maguey",
+      "image": "flor_de_maguey",
+      "description": "El agave produce una sola floración espectacular al final de su vida, lanzando un tallo de hasta 8 metros con racimos de flores amarillas. Un evento único e irrepetible.",
+      "care": "Sin cuidados adicionales, ocurre naturalmente. Sol pleno. Una vez que florece, la planta madre muere dejando hijuelos.",
+      "registrationDate": "2025-11-15T10:00:00Z",
+      "isFavorite": false
+    },
+    {
+      "id": "b6c7d8e9-f0a1-2345-bcde-456789012345",
+      "name": "Colorín",
+      "image": "colorin",
+      "description": "Árbol nativo mexicano conocido por sus llamativas flores rojas tubulares que aparecen antes que las hojas. Sus semillas color coral son usadas en artesanías tradicionales.",
+      "care": "Riega moderadamente. Sol pleno. Resistente a la sequía una vez establecido. Poda de formación en temporada seca.",
+      "registrationDate": "2026-01-20T10:00:00Z",
+      "isFavorite": false
+    }
+  ]
+}

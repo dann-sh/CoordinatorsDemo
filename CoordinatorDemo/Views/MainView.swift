@@ -45,6 +45,21 @@ struct MainView: View {
             }
             .padding()
             
+           Button {
+                appCoordinator.push(.nativePlants, type: .push)
+            } label: {
+                Label("Plantas nativas", systemImage: "leaf.fill")
+                    .frame(maxWidth: .infinity, minHeight: 80)
+                    .foregroundStyle(.white)
+                    .background(Color(red: 7/255, green: 117/255, blue: 97/255))
+                    .clipShape(RoundedRectangle(cornerRadius: 12))
+                    .overlay(
+                        RoundedRectangle(cornerRadius: 12)
+                            .stroke(Color(red: 7/255, green: 117/255, blue: 97/255), lineWidth: 1)
+                    )
+            }
+            .padding()
+
             VStack(alignment: .leading) {
                 Text("Gardening Tips")
                     .font(.headline)

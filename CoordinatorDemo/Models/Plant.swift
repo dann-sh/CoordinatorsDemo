@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Plant: Identifiable, Hashable {
+struct Plant: Identifiable, Hashable, Decodable {
     let id: UUID
     let name: String
     let image: String

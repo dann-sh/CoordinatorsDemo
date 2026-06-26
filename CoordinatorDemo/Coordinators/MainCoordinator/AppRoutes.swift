@@ -17,6 +17,7 @@ enum AppRoutes: Routable {
     case root
     case appInfo
     case myGarden(plants: [Plant])
+    case nativePlants
 
     var body: some View {
         switch self {
@@ -33,6 +34,8 @@ enum AppRoutes: Routable {
             MyGardenView(plants: plants)
         case .appInfo:
             AppInfoView()
+        case .nativePlants:
+            NativePlantsView()
         }
     }
 }
